@@ -5,7 +5,7 @@ This is a disassembly of Pokémon ConnyGold, a hack created for the Temporarily 
 This gave me some opportunity to backport features from Crystal, such as the playing as Kris, that were never available pre-GBC. Besides quality of life changes, the hack has minor in-jokes and references to the 
 TPP playthrough peppered throughout. 
 
-Read more here: https://leif.gg/wiki/index.php?title=User:Er1c1996/Sandbox/Unnamed_Server_Plays_Gold#Resources
+Read more here and download the patch: https://screenshake-club.fandom.com/wiki/Screenshake_Club_Plays_Gold#Resources
 
 ## Story
 Three years after the events of Twitter Plays Pokémon, trainer Cnstntn has gone into seclusion. Team Rocket, disbanded due to his efforts, has splintered into a Jumbo-worshiping cult called Team Jumbo. They plan to use radio waves to turn all the Pidgey in Johto against their trainers, including the eight Pidgey given to the region's gym leaders.
